@@ -46,4 +46,6 @@
 ### **`.gitignore`**
 
     Use this file to specify files that should not be tracked/commited by git.
-    Once a file is tracked by git, adding it to .gitignore won't remove it. You need to untrack it with git rm --cached
+    Once a file is tracked by git, adding it to .gitignore won't remove it. You need to untrack it with git rm --cached.
+
+change
